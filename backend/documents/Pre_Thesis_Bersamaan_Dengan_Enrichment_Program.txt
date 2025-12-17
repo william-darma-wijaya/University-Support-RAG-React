@@ -1,0 +1,48 @@
+Secara umum, mahasiswa Universitas Bina Nusantara dapat mengambil Pra-Tesis bersamaan dengan Enrichment Program jika memenuhi tiga syarat utama: status kelulusan mata kuliah, status aktif semester, dan Indeks Prestasi Kumulatif (IPK) minimum yang spesifik untuk setiap program studi.
+Syarat Umum:
+Kelulusan Mata Kuliah:
+Program Reguler: Telah lulus semua mata kuliah hingga semester 4.
+Program Ganda: Telah lulus semua mata kuliah hingga semester 5.
+Status Perkuliahan Aktif:
+Program Reguler: Sedang aktif berkuliah di semester 5 dan mengambil seluruh mata kuliah sesuai distribusi.
+Program Ganda: Sedang aktif berkuliah di semester 6 dan mengambil seluruh mata kuliah sesuai distribusi.
+IPK Minimum: Memenuhi syarat IPK minimum yang berbeda-beda untuk setiap program studi.
+Persyaratan IPK Minimum per Program Studi:
+Berikut adalah daftar program studi yang memungkinkan pengambilan Pra-Tesis beserta syarat IPK minimumnya. Semua program ini mensyaratkan mahasiswa berasal dari angkatan (Binusian) 2024 atau angkatan yang lebih baru, kecuali untuk program studi Data Science dan Business Analytics yang berlaku untuk angkatan 2025 atau yang lebih baru.
+IPK Minimum ≥ 3.5:
+Industrial Engineering
+Animation
+Accounting (dan Accounting @BINUS BEKASI)
+Marketing Communication
+Mass Communication
+Communication @BINUS MALANG
+Public Relations @BINUS MALANG
+Primary Teacher Education
+Japanese Literature
+Catatan Khusus Akuntansi: Jika Pra-Tesis (2 SKS) diambil di Semester 7, IPK minimum yang disyaratkan adalah ≥ 3.
+IPK Minimum ≥ 3.25:
+Civil Engineering
+English Literature
+International Relations
+International Relations Global Class
+IPK Minimum ≥ 3.0:
+School of Computer Science: Semua program studi (Computer Science, Computer Science Global Class, Computer Science PPTI BCA, Game Application & Technology, Mobile Application & Technology, Cyber Security, Computer Science & Mathematics, Computer Science & Statistics, Computer Science @BINUS BANDUNG, Computer Science @BINUS MALANG, Data Science).
+School of Information Systems: Semua program studi (Information Systems Accounting and Auditing, Information Systems and Management, Information Systems and Accounting, Business Information Technology, Information Systems, Business Analytics).
+Faculty of Engineering: Computer Engineering, Food Technology.
+BINUS Business School: Management, Business Management, Global Business Marketing, International Business Management, International Business Management Global Class, Creativepreneurship @BINUS BANDUNG, Entrepreneurship Business Creation @BINUS MALANG.
+School of Accounting: Finance.
+Faculty of Digital Communication and Hotel & Tourism: Tourism.
+Faculty of Humanities: Business Law, Chinese Literature, Psychology.
+Program Studi Tanpa Skema Pra-Tesis:
+Program studi berikut tidak memiliki skema pengambilan Pra-Tesis bersamaan dengan Enrichment Program:
+Architecture
+Master Track Management
+Business Creation
+Creative Advertising
+New Media
+Film
+Interior Design (semua kampus)
+Visual Communication Design (semua kampus)
+Hotel Management
+Business Hotel Management
+PPA Technology (PPA BCA)

@@ -1,0 +1,28 @@
+Selama berkuliah, mahasiswa akan menerima nilai mata kuliah dalam bentuk huruf yang dikelompokkan berdasarkan Nilai Akhir Semester, dengan detail sebagai berikut:
+
+Nilai Huruf / Keterangan	Bobot	Nilai Akhir Semester
+A	:	Sangat Baik/High Distinction	4	90 – 100
+A-	:	Sangat Baik/High Distinction	3.67	85 – 89
+B+	:	Sangat Baik/High Distinction	3.33	80 – 84
+B	:	Baik/Distinction	3	75 – 79
+B-	:	Baik/Distinction	2.5	70 – 74
+C	:	Cukup/Pass	2	65 – 69
+D	:	Kurang/Near Pass	1	50 – 64
+E	:	Gagal/Fail	0	0 – 49
+F	:	Tidak Lengkap/Incomplete	0	0
+Nilai D wajib diulang apabila:
+
+Mata kuliah tersebut belum memenuhi grade minimal yang telah ditentukan.
+IPK kelulusan kurang dari 2,00.
+Nilai F diberikan apabila:
+
+Mahasiswa tidak berhak mengikuti Ujian Akhir Semester (UAS) atau Ujian Akhir Semester Pendek (syarat kehadiran tidak terpenuhi atau terlambat saat ujian).
+Mahasiswa tidak mengikuti Ujian Akhir Semester (UAS) atau Ujian Akhir Semester Pendek.
+Mahasiswa mengikuti Ujian Akhir Semester (UAS) atau Ujian Akhir Semester Pendek, tetapi nilai ujiannya di-nol-kan karena melakukan pelanggaran.
+Nilai “F” yang didapat mahasiswa akan ditampilkan pada LHSS dan Daftar Nilai Kumulatif (DNK), tetapi tidak ditampilkan pada Transkrip Nilai Akademik (TNA).
+
+Apa itu Mata Kuliah Pengawasan Mutu / quality controlled courses?
+Mata kuliah Pengawasan Mutu adalah mata kuliah yang sangat penting untuk pencapaian pembelajaran lulusan. Perlu dipastikan bahwa learning outcomes melalui indikator dari masing-masing mata kuliah tersebut dapat terpenuhi. Dalam kurikulum, telah ditetapkan beberapa mata kuliah Pengawasan Mutu yang akan didukung dengan pemberian tutorial dan ujian multipapers. Mata kuliah Pengawasan Mutu dan nilai minimal kelulusan dapat dilihat di BINUSMAYA Academic Services (https://binusmaya.binus.ac.id) pada menu Learning, pilih Curriculum.
+
+Bagaimana Cara Mahasiswa dapat Melihat Hasil Studi Semester?
+Mahasiswa dapat melihat Hasil Studi Semester dengan mengunduh LHSS melalui BINUSMAYA Academic Services (https://binusmaya.binus.ac.id). Caranya, masuk ke menu Learning, pilih Grades, lalu pilih View Score. Setelah itu, pilih periode yang diinginkan dan klik Download PDF pada bagian kiri bawah untuk mendapatkan LHSS.

@@ -1,0 +1,84 @@
+Panduan Alamat Kampus dan Sistem Penomoran Ruangan di Universitas Bina Nusantara
+Berikut adalah daftar alamat lengkap setiap kampus BINUS University beserta penjelasan mengenai sistem penomoran ruangan yang berlaku di masing-masing lokasi.
+1. Kampus Kemanggisan
+Kampus ini terbagi menjadi tiga lokasi utama dengan sistem penomoran yang berbeda.
+a. Kampus Syahdan
+Alamat: Jl. K.H. Syahdan No. 9, Jakarta Barat.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan nama gedung (M, L, J, K, atau H).
+Digit 2: Menunjukkan lantai.
+Digit 3: Menunjukkan nama ruang (A, B, C, dst.).
+Contoh: Kode K1A berarti Gedung K, Lantai 1, Ruang A.
+b. Kampus Anggrek
+Alamat: Jl. Kebon Jeruk Raya No. 27, Jakarta Barat.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan lantai.
+Digit 2–3: Menunjukkan nomor ruang.
+Contoh: Kode 305 berarti Lantai 3, Ruang 05.
+c. Kampus Kijang
+Alamat: Jl. Kemanggisan Ilir III No. 45, Jakarta Barat.
+Sistem Penomoran: Kode ruangan terdiri dari 4 digit.
+Digit 1: Menunjukkan nama gedung (A, B, atau C).
+Digit 2: Menunjukkan lantai.
+Digit 3–4: Menunjukkan nomor ruang.
+Contoh: Kode A201 berarti Gedung A, Lantai 2, Ruang 01.
+2. Kampus Alam Sutera
+Alamat: Jl. Jalur Sutera Barat Kav. 21, Alam Sutera, Serpong, Tangerang.
+Sistem Penomoran: Kode ruangan terdiri dari 5 digit.
+Digit 1: Menunjukkan nama gedung.
+Digit 2–3: Menunjukkan lantai.
+Digit 4–5: Menunjukkan nomor ruang.
+Contoh: Kode A0701 berarti Gedung A, Lantai 7, Ruang 01.
+3. Kampus Bekasi
+Alamat: Jl. Bulevar Ahmad Yani Kav. KA 001, Sentra Summarecon, Bekasi.
+Sistem Penomoran: Kode ruangan terdiri dari 5 digit.
+Digit 1: Menunjukkan nama gedung.
+Digit 2–3: Menunjukkan lantai.
+Digit 4–5: Menunjukkan nomor ruang.
+Contoh: Kode A0501 berarti Gedung A, Lantai 5, Ruang 01.
+4. Kampus Bandung
+Alamat: Jl. Pasirkaliki No. 25–27, Paskal Hyper Square, Bandung.
+Sistem Penomoran: Kode ruangan terdiri dari 4 digit.
+Digit 1–2: Menunjukkan lantai.
+Digit 3–4: Menunjukkan nomor ruang.
+Contoh: Kode 1101 berarti Lantai 11, Ruang 01.
+5. Kampus Malang
+Alamat: Jl. Araya Mansion No. 8–22, Araya, Malang.
+Sistem Penomoran: Kode ruangan terdiri dari 4 digit.
+Digit 1–2: Menunjukkan lantai.
+Digit 3–4: Menunjukkan nomor ruang.
+Contoh: Kode 0307 berarti Lantai 3, Ruang 07.
+6. BINUS ASO School of Engineering (BASE)
+Alamat: Jl. Alam Sutera Boulevard No. 1, Alam Sutera – Serpong, Tangerang 15325.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan lantai.
+Digit 2–3: Menunjukkan nomor ruang.
+Contoh: Kode 205 berarti Lantai 2, Ruang 05.
+7. BINUS @Senayan
+Terdiri dari dua lokasi yang berdekatan.
+a. The Joseph Wibowo Center (JWC Campus)
+Alamat: Jl. Hang Lekir I No. 6, Senayan, Jakarta 10270.
+Deskripsi: Kampus ini merupakan pusat bagi BINUS INTERNATIONAL dan BINUS BUSINESS SCHOOL.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan lantai.
+Digit 2–3: Menunjukkan nomor ruang.
+Contoh: Kode 203 berarti Lantai 2, Ruang 03.
+b. fX Campus
+Alamat: fX Sudirman, Lantai 6, Jl. Jenderal Sudirman – Pintu Satu Senayan, Jakarta 10270.
+Deskripsi: Kampus ini merupakan lokasi khusus untuk BINUS NORTHUMBRIA School of Design.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan lantai (selalu lantai 6).
+Digit 2–3: Menunjukkan nomor ruang.
+Contoh: Kode 605 berarti Lantai 6, Ruang 05.
+8. BINUS @Semarang
+Alamat: POJ Avenue, Kav. 3C, POJ City, Kelurahan Tawangsari, Kecamatan Semarang Barat, Kota Semarang, Jawa Tengah 50144.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan lantai.
+Digit 2–3: Menunjukkan nomor ruang.
+Contoh: Kode 205 berarti Lantai 2, Ruang 05.
+9. BINUS @Medan
+Alamat: L Floor, Delipark Mall, Jl. Putri Hijau Dalam (Guru Patimpus) No. 1 Blok OPQ, Kesawan, Medan Barat, Medan 20111.
+Sistem Penomoran: Kode ruangan terdiri dari 3 digit.
+Digit 1: Menunjukkan lantai.
+Digit 2–3: Menunjukkan nomor ruang.
+Contoh: Kode 305 berarti Lantai 3, Ruang 05.

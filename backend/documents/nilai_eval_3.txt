@@ -1,0 +1,21 @@
+Berikut langkah-langkah mudah untuk mengecek nilai mata kuliah mengulang atau gagal di BINUSMAYA:
+
+Masuk ke BINUSMAYA
+Buka binusmaya.binus.ac.id.
+Login dengan User ID (email Binus: email@binus.ac.id) dan Password.
+Pilih Apps Launcher
+Klik ikon Apps Launcher di pojok kiri atas halaman.
+Masuk ke Academic Services
+Pilih menu Academic Services untuk masuk ke BINUSMAYA Academic Services.
+
+Pilih Learning
+Di dalam Academic Services, pilih Learning, lalu pilih Curriculum, Klik Course Distribution
+Melihat Status Matakuliah
+Akan ada dua status mata kuliah, yaitu:
+
+
+Passed: Mata kuliah sudah lulus dan memenuhi minimum grade.
+
+Failed: Mata kuliah tidak lulus dan harus diulang.
+
+Video Tutorial

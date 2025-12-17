@@ -1,0 +1,21 @@
+Sertifikasi menjadi bukti keahlian spesifik saudara/i dalam bidang tertentu. Untuk mengunggah dokumen sertifikasi ke BINUSMAYA, ikuti langkah berikut:
+
+Login ke BINUSMAYA melalui https://binusmaya.binus.ac.id.
+Masuk ke Academic Services dan pilih menu Certification.
+Pilih Certification Catalog untuk melihat jenis sertifikasi yang tersedia.
+Unggah file sertifikasi yang dimiliki.
+Klik tombol Submit.
+Proses Verifikasi Sertifikasi
+Setelah di-submit, dokumen akan diverifikasi oleh BINUS Support. Pastikan informasi berikut sudah sesuai antara dokumen dan data di BINUSMAYA:
+
+Nama Binusian
+Nama Sertifikasi
+Nama Administrator
+Jika dokumen dinyatakan sesuai, status sertifikasi akan berubah menjadi “Approved”.
+
+
+Namun, jika terdapat ketidaksesuaian, dokumen akan berstatus “Rejected”. Saudara/i dapat melihat kolom Remark untuk mengetahui catatan perbaikan dan memperbaiki dokumen sebelum melakukan Resubmit.
+
+
+Pentingnya Sertifikasi yang Disetujui
+Sertifikasi yang telah disetujui akan dicantumkan dalam DPI (Dokumen Pendamping Ijazah), yang akan diberikan pada saat wisuda. Pastikan semua sertifikasi sudah lengkap dan sesuai agar dapat mendukung profil akademik saudara/i.

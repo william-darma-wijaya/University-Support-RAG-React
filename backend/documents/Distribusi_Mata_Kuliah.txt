@@ -1,0 +1,9 @@
+Distribusi Mata Kuliah / Kurikulum
+
+Mengapa Mahasiswa perlu mengetahui kurikulum perkuliahan?
+Mahasiswa perlu mengetahui kurikulum distribusi mata kuliah apa saja yang akan dijalankan pada semester yang mendatang, sehingga mahasiswa dapat mempersiapkan diri dalam menjalani perkuliahan. Selain itu, mahasiswa juga dapat melihat status mata kuliah yang sudah dijalankan, jika status gagal (FAILED) maka perlu untuk mengulang mata kuliah tersebut.
+
+Bagaimana cara melihat distribusi Mata Kuliah / Kurikulum?
+Mahasiswa dapat melihat kurikulum pada BINUSMAYA (https://binusmaya.binus.ac.id), pilih Academic Services, lalu menu Learning – Curriculum – Course Distribution.
+
+Dan mahasiswa dapat akses kurikulum melalui website (https://curriculum.binus.ac.id/) dengan memilih Fakultas, kemudian pilih jurusan/program mahasiswa, dan pilih catalog sesuai dengan tahun masuk/ angkatan Binusian, contoh : Catalog 2024/ B2028

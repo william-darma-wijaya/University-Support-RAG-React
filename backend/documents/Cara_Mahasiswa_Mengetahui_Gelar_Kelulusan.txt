@@ -1,0 +1,18 @@
+Panduan Mengecek Gelar Kelulusan (Degree Title) melalui BINUSMAYA
+Mahasiswa Universitas Bina Nusantara (BINUS) dapat secara mandiri memeriksa gelar akademik yang akan diperoleh setelah lulus melalui portal mahasiswa, BINUSMAYA. Berikut adalah langkah-langkah terstruktur untuk mengakses informasi tersebut.
+Langkah 1: Mengakses Laman BINUSMAYA
+Buka peramban (browser) dan kunjungi alamat situs resmi BINUSMAYA di https://binusmaya.binus.ac.id.
+Langkah 2: Proses Login ke Akun
+Pada halaman utama, klik tombol “Sign in with Microsoft”.
+Anda akan diarahkan ke halaman login. Masukkan kredensial berikut:
+Email: Gunakan alamat email Outlook BINUS Anda (dengan format ...@binus.ac.id).
+Password: Masukkan kata sandi yang biasa Anda gunakan untuk login BINUSMAYA.
+Langkah 3: Navigasi ke Halaman Profil
+Setelah berhasil masuk, Anda akan berada di halaman dashboard BINUSMAYA.
+Arahkan kursor ke Foto Profil Anda yang terletak di sudut halaman.
+Dari menu yang muncul, klik opsi "View Profile".
+Langkah 4: Menemukan Informasi Gelar
+Di dalam halaman profil Anda, pilih tab yang bernama "Personal Information".
+Pada halaman ini, cari kolom atau bagian yang berjudul "Degree Title".
+Langkah 5: Konfirmasi Gelar Kelulusan
+Informasi yang tercantum di dalam kolom "Degree Title" adalah gelar resmi yang akan Anda terima pada saat wisuda atau kelulusan nanti.

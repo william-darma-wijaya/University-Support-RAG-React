@@ -1,0 +1,16 @@
+Cara Mengajukan Protes Nilai:
+
+Masuk ke situs binusmaya.binus.ac.id.
+Masukkan User ID dan Password.
+User ID: email @binus.ac.id.
+Klik ikon Apps Launcher di bagian kiri atas.
+Pilih Academic Services.
+
+Pilih Learning.
+Pilih Grade.
+Pilih Score Protest.
+
+Pilih Periode dan Mata Kuliah yang ingin diprotes.
+Pilih Jenis Nilai yang ingin diprotes.
+
+Nilai Enrichment Program dan Skripsi tidak dapat diprotes. Mahasiswa yang mengajukan protes terhadap nilai yang sudah benar akan dikenakan penalti berupa pengurangan nilai sebesar 20 poin. Batas waktu pengajuan protes nilai adalah 3 hari setelah nilai diposting. Mahasiswa dapat mengajukan protes nilai dengan mengklik ikon jam (On Progress) pada kolom “Protest Score Posting Date”.

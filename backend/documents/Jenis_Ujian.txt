@@ -1,0 +1,15 @@
+Jenis Ujian di BINUS Univeristy
+
+Dalam rangka evaluasi pembelajaran, BINUS University menerapkan beberapa bentuk ujian yang disesuaikan dengan kebutuhan mata kuliah serta metode pembelajaran yang digunakan. Berikut adalah tipe-tipe ujian yang berlaku di lingkungan BINUS University:
+
+1. Ujian Onsite
+Ujian onsite adalah ujian yang dilaksanakan secara langsung di kampus BINUS, sesuai dengan jadwal yang telah ditentukan oleh pihak universitas.
+
+2. Ujian Take Home
+Jenis ujian ini dilakukan dengan cara mahasiswa mendownload soal ujian dan mengumpulan jawaban secara mandiri sesuai dengan batas waktu mengumpulkan pada Exam Apps (https://exam.apps.binus.ac.id)
+
+3. Ujian Project
+Ujian project merupakan bentuk evaluasi berupa tugas besar atau karya yang dikerjakan mahasiswa. Soal atau instruksi project biasanya sudah diberikan sejak awal perkuliahan dan pengumpulan dilakukan melalui Exam Apps (https://exam.apps.binus.ac.id)
+
+4. Ujian Online
+Ujian online dilaksanakan melalui aplikasi atau website khusus BINUS. Ujian ini bersifat real-time dan diawasi oleh sistem secara otomatis. Saat ini, format ini terutama diterapkan pada BINUS Online.

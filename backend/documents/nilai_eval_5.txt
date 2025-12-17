@@ -1,0 +1,15 @@
+BINUS bersama Mahasiswa secara aktif melakukan Evaluasi keberhasilan studi setiap semesternya untuk memantau hasil belajar mahasiswa agar dapat lulus tepat waktu. Syarat minimum untuk evaluasi keberhasilan studi mahasiswa setiap semesternya meliputi Indeks Prestasi Kumulatif (IPK) minimal 2.00 dan SKS (Sistem Kredit Semester) kumulatif minimal 15 sks dan kelipatannya. Simulasi dari standar minimal ini dapat dilihat pada Tabel di bawah ini.
+
+Syarat minimum IPK dan SKS Kumulatif	Tindak lanjut jika tidak dapat memenuhi syarat minimum
+Akhir Semester	IPK	SKS dengan grade
+A/A-/B+/B-/B/C/D
+1	>= 2,00	>= 15	Mendapatkan Surat Peringatan
+2	>= 2,00	>= 30	Mendapatkan Surat Peringatan
+3	>= 2,00	>= 45	Mendapatkan Surat Peringatan
+4	>= 2,00	>= 60	Mendapatkan Surat Peringatan
+5	>= 2,00	>= 75	Mendapatkan Surat Peringatan
+6	>= 2,00	>= 90	Mendapatkan Surat Peringatan
+7	>= 2,00	>=115	Mendapatkan Surat Peringatan
+8	>= 2,00	>=130	Mendapatkan Surat Peringatan
+>8	>= 2,00	Belum mencapai 146 sks	Mendapatkan Surat Peringatan
+Mahasiswa yang tidak sesuai dengan standar hasil belajar yang ditetapkan akan mendapatkan surat peringatan yang dapat diunduh melalui menu message di BINUSMAYA Academic Services (https://binusmaya.binus.ac.id). Bagi mahasiswa yang selama tiga semester berturut-turut atau lebih tidak aktif (tidak melakukan registrasi) tanpa mengajukan permohonan cuti akademik secara resmi dan target studi tidak dapat diselesaikan dalam sisa masa studi sesuai ketentuan maka akan masuk dalam evaluasi Drop Out yang dapat berakibat pada perubahan status mahasiswa menjadi “Diberhentikan” sebagai mahasiswa Universitas Bina Nusantara.

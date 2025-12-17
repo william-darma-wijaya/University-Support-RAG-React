@@ -1,0 +1,16 @@
+Panduan Mengakses Microsite BINUS Support Melalui BINUSMAYA
+1. Pengenalan Microsite BINUS Support
+Universitas Bina Nusantara (BINUS) menyediakan sebuah platform informasi terpusat yang dikenal sebagai Microsite BINUS Support. Platform ini dirancang untuk mempermudah mahasiswa dalam mendapatkan informasi penting seputar layanan kampus. Isinya mencakup berbagai artikel panduan, informasi terkait kegiatan akademik, serta panduan layanan administratif yang dapat diakses secara mandiri kapan saja.
+2. Langkah-langkah Akses Melalui BINUSMAYA
+Mahasiswa dapat dengan mudah mengakses microsite ini langsung dari dasbor BINUSMAYA. Berikut adalah panduan langkah demi langkahnya:
+Langkah 1: Login ke BINUSMAYA
+Buka peramban (browser) dan akses portal BINUSMAYA melalui tautan resmi: https://binusmaya.binus.ac.id.
+Lakukan proses login menggunakan akun BINUSIAN Anda.
+Langkah 2: Temukan Apps Launcher
+Setelah berhasil masuk ke halaman dasbor, perhatikan bagian pojok kiri atas layar.
+Klik pada ikon Apps Launcher, yang berbentuk kotak dengan sembilan titik di dalamnya.
+Langkah 3: Pilih Aplikasi BINUS Support
+Setelah mengklik ikon Apps Launcher, sebuah menu akan muncul menampilkan daftar aplikasi yang tersedia.
+Cari dan pilih aplikasi yang bernama "BINUS Support" dari daftar tersebut.
+Langkah 4: Akses Halaman Microsite
+Setelah memilih aplikasi BINUS Support, Anda akan secara otomatis diarahkan (redirected) ke halaman utama Microsite BINUS Support, di mana Anda dapat mulai mencari informasi yang dibutuhkan.

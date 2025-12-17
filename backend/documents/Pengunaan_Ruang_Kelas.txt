@@ -1,0 +1,19 @@
+Panduan Singkat Penggunaan Fasilitas Ruang Kelas (FAQ)
+
+Agar memudahkan Bapak/Ibu Dosen dalam mengajar. Berikut ini adalah contoh panduan singkat penggunaan fasilitas ruang kelas yang dapat digunakan sebagai referensi:
+
+Bagaimana cara menampilkan materi PPT ke projector?
+Jawaban:
+Pastikan sudah klik start link Zoom dari Binusmaya LMS
+Buka materi PPT yang ingin ditampilkan. Jika materi PPT diambil dari LMS, pastikan materi PPT didownload terlebih dahulu
+Klik “Share Screen” pada Zoom
+Pilih “Screen 2”, lalu klik Share
+Materi PPT otomatis akan muncul ke layar Projector
+
+Bagaimana cara menampilkan materi Non-PPT ke projector?
+Jawaban:
+Pastikan sudah klik start link Zoom dari Binusmaya LMS
+Buka File/Browser/Software yang ingin ditampilkan
+“Drag” (tahan) File/Browser/Software pada poin 2 dan geser ke arah layar Projector (Kiri/Kanan) tergantung posisi meja dosen.
+Klik”Share Screen” di Zoom
+Pilih Screen 2, lalu klik Share

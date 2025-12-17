@@ -1,0 +1,24 @@
+Ringkasan Panduan Pembuatan CV Online Melalui Platform BINUS Career
+Mahasiswa aktif dan alumni Universitas Bina Nusantara (BINUS) dapat memanfaatkan platform binuscareer.com untuk membuat Curriculum Vitae (CV) secara online dengan mudah. Berikut adalah langkah-langkah terstruktur untuk membuat dan mengunduh CV dari platform tersebut.
+Langkah 1: Mengunjungi Situs dan Memilih Menu
+Akses situs resmi melalui browser di alamat binuscareer.com.
+Pada halaman utama, pilih menu "Jobseeker" untuk melanjutkan ke proses pembuatan CV.
+Langkah 2: Proses Login Pengguna
+Mahasiswa Aktif: Login menggunakan akun email @binus.ac.id. Akses login untuk mahasiswa program sarjana reguler baru terbuka setelah mahasiswa tersebut terdaftar dalam mata kuliah Thesis/Tugas Akhir.
+Alumni: Login menggunakan akun yang terdaftar di Aplikasi Alumni BINUS.
+Langkah 3: Mengakses Halaman Profil
+Setelah berhasil login, klik pada nama Anda yang terdapat di pojok kanan atas halaman.
+Dari menu dropdown yang muncul, pilih opsi "Profile".
+Langkah 4: Melengkapi Data Diri pada Profil
+Di dalam halaman profil, terdapat beberapa tab informasi yang harus diisi secara lengkap untuk menghasilkan CV yang komprehensif. Tab yang tersedia meliputi:
+Personal Data & Photo Profile: Mengisi data pribadi dan mengunggah foto profil formal.
+Education: Mencantumkan riwayat pendidikan.
+Experience: Merincikan pengalaman kerja profesional atau magang.
+Skill: Mendaftar keahlian yang dimiliki.
+Portfolio: Melampirkan portofolio hasil karya (jika ada).
+Achievement (Opsional): Menambahkan daftar prestasi atau pencapaian.
+Job (Opsional): Mengisi informasi terkait preferensi pekerjaan yang diinginkan.
+Data pribadi dan foto profil dapat diperbarui kapan saja melalui tautan "update personal data" dan "update photo profile".
+Langkah 5: Mengunduh CV
+Setelah memastikan semua data pada setiap tab telah terisi dengan benar dan lengkap, klik tombol "Download".
+CV akan secara otomatis terunduh ke perangkat Anda dalam format PDF.

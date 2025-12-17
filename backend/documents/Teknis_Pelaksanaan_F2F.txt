@@ -1,0 +1,41 @@
+Bagaimana Teknis Pelaksanaan Sesi Face to Face (F2F)?
+
+Face to Face adalah metode pembelajaran di mana dosen dan mahasiswa hadir secara fisik di ruang kelas pada jadwal yang telah ditentukan. Dalam metode ini, pembelajaran berlangsung secara langsung, memungkinkan interaksi langsung antara dosen dan mahasiswa, sehingga mendukung diskusi yang lebih mendalam dan feedback yang lebih cepat.
+
+Di BINUS University, selain Face to Face, ada juga beberapa metode delivery mode lainnya yang mendukung fleksibilitas dalam proses belajar mengajar:
+Video Conference (ViCon)
+Metode Video Conference atau ViCon memungkinkan dosen dan mahasiswa untuk berinteraksi dalam sesi kelas daring melalui platform Zoom. Pembelajaran ViCon membantu dalam menghadirkan kelas secara virtual ketika tatap muka langsung tidak memungkinkan. (Baca selengkapnya di artikel https://support.binus.ac.id/567-183104).
+Guided Self-Learning Class (GSLC)
+GSLC atau Guided Self-Learning Class adalah metode pembelajaran mandiri yang didukung oleh panduan dari dosen. Dalam sesi GSLC, mahasiswa diharapkan untuk belajar secara mandiri menggunakan materi yang telah disediakan, tetapi tetap diarahkan oleh dosen untuk mencapai hasil belajar yang diinginkan. (Baca selengkapnya di artikel https://support.binus.ac.id/982-193133).
+
+Cara Melihat Jadwal Perkuliahan
+Mahasiswa dapat mengakses jadwal perkuliahan melalui beberapa platform yang telah disediakan oleh BINUS University. Berikut adalah platform dan langkah-langkahnya:
+BINUSMAYA – Learning Management System (LMS)
+Buka BINUSMAYA LMS.
+Masuk ke akun mahasiswa.
+Pilih menu Schedule untuk melihat jadwal perkuliahan yang telah ditentukan.
+
+BINUSMAYA Mobile
+Buka aplikasi BINUSMAYA Mobile di perangkat seluler.
+Masuk ke menu Schedule (ikon kalender) untuk melihat jadwal.
+
+BINUS Mobile for Student
+Buka aplikasi BINUS Mobile for Student di perangkat seluler.
+Pilih menu Schedule (ikon kalender) untuk mengakses jadwal perkuliahan.
+
+Panduan Kehadiran Mahasiswa dalam Perkuliahan Tatap Muka
+Datang Tepat Waktu dan Bawa Kartu BINUSIAN Flazz Card
+Pastikan kamu hadir sesuai dengan jadwal yang telah ditetapkan.
+Gunakan BINUSIAN Flazz Card sebagai tanda pengenal mahasiswa saat mengikuti perkuliahan di kampus.
+Lakukan Wifi Attendance melalui BINUSMAYA Mobile
+Kehadiran mahasiswa akan tercatat melalui fitur Wifi Attendance di aplikasi BINUSMAYA Mobile.
+Untuk panduan lengkap, silakan baca petunjuk Wifi Attendance yang tersedia di https://support.binus.ac.id/723-123255.
+Aktif Berinteraksi dengan Dosen/Asisten Dosen
+Partisipasi aktif dalam kelas sangat dianjurkan. Jika ada hal yang belum dipahami, tanyakan kepada dosen atau asisten dengan sopan.
+Jaga ketertiban kelas agar proses belajar mengajar berlangsung dengan baik.
+Ikuti Perkuliahan Hingga Selesai
+Mahasiswa diharapkan mengikuti perkuliahan sampai selesai sesuai dengan jadwal. Dosen atau asisten akan melakukan verifikasi kehadiran melalui sistem.
+Jika mahasiswa tidak berada di ruang kelas saat verifikasi, dosen/asisten berhak mengubah status kehadiran menjadi alpa.
+Pastikan Kehadiran Sudah Tercatat
+Mahasiswa bertanggung jawab untuk memastikan bahwa status kehadirannya sudah dinyatakan hadir sebelum proses verifikasi selesai.
+

@@ -1,0 +1,125 @@
+.auth-page {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8fafc;
+  overflow: hidden;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.auth-bg {
+  position: absolute;
+  inset: -30%;
+  background:
+    radial-gradient(
+      circle at 30% 30%,
+      rgba(4, 151, 219, 0.22),
+      transparent 60%
+    ),
+    radial-gradient(
+      circle at 70% 60%,
+      rgba(241, 135, 2, 0.22),
+      transparent 60%
+    );
+
+  filter: blur(80px);
+  pointer-events: none;
+  z-index: 0;
+
+  will-change: transform;
+  transition: transform 0.4s ease-out;
+}
+
+.auth-card {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 32px;
+  box-shadow: 0 30px 60px rgba(15, 23, 42, 0.12);
+}
+
+.auth-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 8px;
+}
+
+.auth-subtitle {
+  font-size: 14px;
+  color: #6b7280;
+  margin-bottom: 28px;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.auth-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.auth-input {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1.5px solid #d1d5db;
+  font-size: 14px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.auth-input:focus {
+  border-color: #0497db;
+  box-shadow: 0 0 0 3px rgba(4, 151, 219, 0.15);
+}
+
+.auth-button {
+  margin-top: 8px;
+  background: #f18702;
+  color: #ffffff;
+  border: none;
+  border-radius: 12px;
+  padding: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.auth-button:hover {
+  background: #d67600;
+}
+
+.auth-footer {
+  margin-top: 18px;
+  font-size: 14px;
+  color: #6b7280;
+  text-align: center;
+}
+
+.auth-link {
+  color: #0497db;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.auth-link:hover {
+  text-decoration: underline;
+}
+
+.auth-error {
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+}
