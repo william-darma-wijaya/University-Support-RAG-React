@@ -1,2 +1,2 @@
-# BINUSIAN Support Chatbot App
+# University Support Chatbot App
 a
